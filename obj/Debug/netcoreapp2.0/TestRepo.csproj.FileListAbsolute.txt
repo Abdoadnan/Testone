@@ -1,0 +1,10 @@
+C:\Repo\TestRepo\bin\Debug\netcoreapp2.0\TestRepo.deps.json
+C:\Repo\TestRepo\bin\Debug\netcoreapp2.0\TestRepo.runtimeconfig.json
+C:\Repo\TestRepo\bin\Debug\netcoreapp2.0\TestRepo.runtimeconfig.dev.json
+C:\Repo\TestRepo\bin\Debug\netcoreapp2.0\TestRepo.dll
+C:\Repo\TestRepo\bin\Debug\netcoreapp2.0\TestRepo.pdb
+C:\Repo\TestRepo\obj\Debug\netcoreapp2.0\TestRepo.csproj.CoreCompileInputs.cache
+C:\Repo\TestRepo\obj\Debug\netcoreapp2.0\TestRepo.AssemblyInfoInputs.cache
+C:\Repo\TestRepo\obj\Debug\netcoreapp2.0\TestRepo.AssemblyInfo.cs
+C:\Repo\TestRepo\obj\Debug\netcoreapp2.0\TestRepo.dll
+C:\Repo\TestRepo\obj\Debug\netcoreapp2.0\TestRepo.pdb
